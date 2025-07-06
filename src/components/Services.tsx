@@ -172,7 +172,7 @@ const Services = () => {
           <button
             className="bg-indigo-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-indigo-700 transition-colors"
             onClick={() => {
-              window.location.href = "mailto:arthitect.alt@email.com?subject=Request%20for%20Custom%20Quote&body=Hi,%20I%20would%20like%20to%20request%20a%20custom%20quote%20for%20my%20project.%20Please%20contact%20me%20with%20more%20details.";
+              window.location.href = "mailto:arthitect.alt@gmail.com?subject=Request%20for%20Custom%20Quote&body=Hi,%20I%20would%20like%20to%20request%20a%20custom%20quote%20for%20my%20project.%20Please%20contact%20me%20with%20more%20details.";
             }}
           >
             Request Custom Quote
