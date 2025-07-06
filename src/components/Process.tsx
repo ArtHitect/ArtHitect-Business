@@ -85,7 +85,13 @@ const Process = () => {
             <p className="text-gray-600 mb-6">
               Most projects are completed within 7 days. Let's discuss your timeline.
             </p>
-            <button className="bg-indigo-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-indigo-700 transition-colors">
+            <button
+              className="bg-indigo-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-indigo-700 transition-colors"
+              onClick={() => {
+                window.location.href =
+                  "mailto:arthitect.alt@email.com?subject=Schedule%20Free%20Consultation&body=Hi,%20I%20would%20like%20to%20schedule%20a%20free%20consultation%20to%20discuss%20my%20project.%20Please%20let%20me%20know%20your%20availability.";
+              }}
+            >
               Schedule Free Consultation
             </button>
           </div>
