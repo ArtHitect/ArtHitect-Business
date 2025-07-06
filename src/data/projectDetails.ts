@@ -5,31 +5,31 @@ import babyheavenShop from '../Reference/Babyheaven/shop.jpg';
 import babyheavenContact from '../Reference/Babyheaven/contact.jpg';
 import babyheavenFooter from '../Reference/Babyheaven/footer.jpg';
 
-import doneDealHero from '../Reference/Done Deal/hero.jpg';
-import doneDealService from '../Reference/Done Deal/service.jpg';
-import doneDealBlog from '../Reference/Done Deal/blog.jpg';
-import doneDealReviews from '../Reference/Done Deal/reviews.jpg';
-import doneDealContact from '../Reference/Done Deal/contact.jpg';
-import doneDealMap from '../Reference/Done Deal/map.jpg';
+import doneDealHero from '../Reference/Done-Deal/hero.jpg';
+import doneDealService from '../Reference/Done-Deal/service.jpg';
+import doneDealBlog from '../Reference/Done-Deal/blog.jpg';
+import doneDealReviews from '../Reference/Done-Deal/reviews.jpg';
+import doneDealContact from '../Reference/Done-Deal/contact.jpg';
+import doneDealMap from '../Reference/Done-Deal/map.jpg';
 
-import shoptechHero from '../Reference/ShopTech and Services/hero.jpg';
-import shoptechFeaturedProducts from '../Reference/ShopTech and Services/featured products.jpg';
-import shoptechKnowTech from '../Reference/ShopTech and Services/know tech.jpg';
-import shoptechServices from '../Reference/ShopTech and Services/services.jpg';
-import shoptechReviews from '../Reference/ShopTech and Services/reviews.jpg';
-import shoptechPayment from '../Reference/ShopTech and Services/payment.jpg';
-import shoptechMainPage from '../Reference/ShopTech and Services/main page.jpg';
-import shoptechMainPageServices from '../Reference/ShopTech and Services/main page services.jpg';
-import shoptechMainPageKnowTech from '../Reference/ShopTech and Services/main page know tech.jpg';
-import shoptechBlog from '../Reference/ShopTech and Services/blog.jpg';
-import shoptechFooter from '../Reference/ShopTech and Services/footer.jpg';
+import shoptechHero from '../Reference/ShopTech-and-Services/hero.jpg';
+import shoptechFeaturedProducts from '../Reference/ShopTech-and-Services/featured-products.jpg';
+import shoptechKnowTech from '../Reference/ShopTech-and-Services/know-tech.jpg';
+import shoptechServices from '../Reference/ShopTech-and-Services/services.jpg';
+import shoptechReviews from '../Reference/ShopTech-and-Services/reviews.jpg';
+import shoptechPayment from '../Reference/ShopTech-and-Services/payment.jpg';
+import shoptechMainPage from '../Reference/ShopTech-and-Services/main-page.jpg';
+import shoptechMainPageServices from '../Reference/ShopTech-and-Services/main-page-services.jpg';
+import shoptechMainPageKnowTech from '../Reference/ShopTech-and-Services/main-page-know-tech.jpg';
+import shoptechBlog from '../Reference/ShopTech-and-Services/blog.jpg';
+import shoptechFooter from '../Reference/ShopTech-and-Services/footer.jpg';
 
-import homeServiceHero from '../Reference/Home Service/hero.jpg';
-import homeServiceFeatured from '../Reference/Home Service/featured services.jpg';
-import homeServiceAbout from '../Reference/Home Service/about.jpg';
-import homeServiceReviews from '../Reference/Home Service/reviews.jpg';
-import homeServiceMainPage from '../Reference/Home Service/main page.jpg';
-import homeServiceServices from '../Reference/Home Service/services.jpg';
+import homeServiceHero from '../Reference/Home-Service/hero.jpg';
+import homeServiceFeatured from '../Reference/Home-Service/featured-services.jpg';
+import homeServiceAbout from '../Reference/Home-Service/about.jpg';
+import homeServiceReviews from '../Reference/Home-Service/reviews.jpg';
+import homeServiceMainPage from '../Reference/Home-Service/main-page.jpg';
+import homeServiceServices from '../Reference/Home-Service/services.jpg';
 
 export interface ProjectSection {
   image: string;
