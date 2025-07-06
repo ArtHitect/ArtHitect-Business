@@ -31,7 +31,7 @@ const Hero = () => {
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a
-            href="/ArtHitect_Web_Design_Quotes.pdf"
+            href="/files/ArtHitect_Web_Design_Quotes.pdf"
             download
             className="group bg-white text-gray-900 px-8 py-4 rounded-full font-semibold text-lg hover:bg-gray-100 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center justify-center"
           >

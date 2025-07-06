@@ -1,4 +1,4 @@
-import { ExternalLink, Code, Palette, ShoppingCart, Globe } from 'lucide-react';
+import { Code, Palette, ShoppingCart, Globe } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import babyStoreImg from '../images/baby store.jpeg';
 import doneDealImg from '../images/done deal.jpg';
@@ -83,11 +83,6 @@ const Portfolio = () => {
                   className="w-full h-48 object-cover group-hover:scale-110 transition-transform duration-300"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
-                <div className="absolute top-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
-                  <button className="bg-white text-gray-900 p-2 rounded-full hover:bg-gray-100 transition-colors">
-                    <ExternalLink className="w-5 h-5" />
-                  </button>
-                </div>
               </div>
               
               <div className="p-6">
@@ -112,7 +107,7 @@ const Portfolio = () => {
                 
                 <Link to={`/portfolio/${project.slug}`} className="text-indigo-600 font-semibold hover:text-indigo-700 transition-colors flex items-center">
                   View Project
-                  <ExternalLink className="w-4 h-4 ml-1" />
+                 
                 </Link>
               </div>
             </div>
